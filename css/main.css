@@ -1,0 +1,30 @@
+/* main {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-template-rows: 1fr 1fr;
+  justify-content: center;
+  text-align: center;
+  } */
+
+
+form {
+  background-color: lightgrey;
+}
+
+h1 {
+  background-color: tomato;
+}
+
+h2 {
+  background-color: cadetblue;
+  color: black;
+}
+
+li {
+  list-style: none;
+  width: 50%;
+}
+
+body {
+  display: none;
+}
